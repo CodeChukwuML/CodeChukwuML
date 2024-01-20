@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodeChukwuML
+- 👀 I’m interested in machine learning, artificial intelligence and open-source projects 
+- 🌱 I’m currently learning advanced deep learning techniques 
+- 💞️ I’m looking to collaborate on open-source projects related to machine learning or innovative software development.
+- 📫 How to reach me: You can reach me through email at chukwumleonard@gmail.com or connect with me on [X](https://x.com/hesleons?s=09).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I enjoy solving algorithmic puzzles
